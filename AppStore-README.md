@@ -19,10 +19,10 @@ This is some descriptive text of the overall project. It is really cool and a su
 <img src="https://img.shields.io/badge/License-MIT-blue.svg">
 <img src="https://img.shields.io/badge/Platform-ios | android-lightgrey.svg">
 <img src="https://img.shields.io/badge/Downloads-1k/month-brightgreen.svg">
-<a href="https://beerpay.io/">
+<a href="https://beerpay.io/" target="_blank">
   <img src="https://img.shields.io/badge/Beerpay-$0-red.svg">
 </a>
-<a href="https://itunes.apple.com/us/app/apple-store/id375380948?mt=8">
+<a href="https://itunes.apple.com/us/app/apple-store/id375380948?mt=8" target="_blank">
   <img src="https://img.shields.io/badge/Rating-&starf;&starf;&starf;&starf;&star;-brightgreen.svg">
 </a>
 </p>
@@ -57,4 +57,4 @@ It's a good idea to attach a license to an App Store project which is also open 
 # Comments | Questions | Complements
 You can [email us](mailto:someone@example.com) anytime for comments and questions. Let us know how you use Nifty and what we can do to make it better!
 
-[Buy us a beer.](https://beerpay.io/)
+<a href="https://beerpay.io/" target="_blank">Buy us a beer.</a>

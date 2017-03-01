@@ -1,5 +1,9 @@
 <h1 align="center">ReadMe-Templates</h1>
-<p align="center">A beautiful collection of templates to suite your project needs</p>
+<p align="center">
+  A beautiful collection of templates to suite your project needs
+  <img src="https://media.giphy.com/media/DYzYhzDd6lbz2/giphy.gif">
+  <p align="right">Image Credit: Linda Van Bruggen</p>
+</p>
 </br>
 
 ## Licensing

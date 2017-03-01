@@ -10,7 +10,7 @@
 </a></div>
 
 <!-- Project Title -->
-<h1 style="text-align:center;">Nifty App<sup>&#153;</sup></h1>
+<h1>Nifty App<sup>&#153;</sup></h1>
 
 This is some descriptive text of the overall project. It is really cool and a super fun app to use in your daily roster. You should totally give this awesome collection of code a try! It will rock your world!
 
@@ -57,4 +57,4 @@ It's a good idea to attach a license to an App Store project which is also open 
 # Comments | Questions | Complements
 You can [email us](mailto:someone@example.com) anytime for comments and questions. Let us know how you use Nifty and what we can do to make it better!
 
-[Buy us a beer.]()
+[Buy us a beer.](https://beerpay.io/)

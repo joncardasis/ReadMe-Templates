@@ -1,7 +1,7 @@
 <!-- Project Logo -->
 <h3 align="center">
 <a href="/" style="text-decoration: none">
-  <img src='Resources/LogoHolder.png' width=200px>
+  <img src='Resources/Placeholder/LogoHolder.png' width=200px>
   <br/>
   Nifty<sup>&#153;</sup>
 </a></h3>
@@ -10,7 +10,7 @@
 <p align="center">
   Clean &bull;
   Classic &bull;
-  Rubust
+  Robust
 </p>
 
 -----
@@ -33,6 +33,8 @@ Python   | <a href="LINK TO EXTERNAL GITHUB"><img src="https://img.shields.io/ba
 
 
 # Documentation
+Documentation for the API can be found [on our site]().
+
 
 # Example Use
 `curl -H "Content-Type: application/json" http://nifty:3000/api/similartrack?song=She+Will+Be+Loved&count=2`

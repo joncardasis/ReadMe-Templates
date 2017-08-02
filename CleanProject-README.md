@@ -40,7 +40,8 @@ Documentation for the API can be found [on our site]().
 `curl -H "Content-Type: application/json" http://nifty:3000/api/similartrack?song=She+Will+Be+Loved&count=2`
 <details>
 <summary><b>JSON Result</b></summary>
-```
+	
+```C
 {
 	"resultCount":1,
 	"results": [
